@@ -1,5 +1,5 @@
 {
-    "name": "dokobit/gateway-php-sdk",
+    "name": "tmoldri/gateway-php-sdk",
     "description": "Client for Dokobit Gateway API",
 
     "type": "library",
